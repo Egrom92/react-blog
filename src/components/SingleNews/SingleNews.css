@@ -1,0 +1,50 @@
+.singleNews-section {
+
+}
+.singleNews {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.singleNews__data {
+    width: calc(100% / 12 * 4 - 30px);
+}
+.singleNews__article {
+    width: calc(100% / 12 * 8);
+}
+.singleNews__pic {
+    margin-bottom: 60px;
+}
+.singleNews__text {
+
+}
+.singleNews__text p {
+    font-size: 25px;
+}
+.singleNews__text p:not(:last-child) {
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

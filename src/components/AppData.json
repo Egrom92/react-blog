@@ -1,0 +1,18 @@
+{
+  "app": {
+    "logo": "Новостник",
+    "logoDesc": "Single Page Application"
+  },
+  "author": {
+    "name": "Роман",
+    "lastName": "Эглиенс",
+    "phone": "+372 58 269 828",
+    "mail": "mr.roman.egliens@gmail.com",
+    "position": "JavaScript разработчик"
+  },
+  "skills": ["ES5", "ES6", "React"],
+  "pageTitle": {
+    "home": "Всегда свежие новости",
+    "newsArchive": "Быть в курсе событий"
+  }
+}

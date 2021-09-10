@@ -1,0 +1,88 @@
+.contact-section {
+
+}
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contact__data {
+
+}
+.contact__phone {
+    font-size: 60px;
+    color: #004FEC;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+.contact__name {
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+.contact__name-point {
+
+}
+.contact__mail {
+    font-size: 20px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+.contact__position {
+    color: #999EA8;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.contact__skills {
+    font-size: 20px;
+    display: flex;
+}
+.contact__skills-point {
+    position: relative;
+}
+.contact__skills-point:last-child {
+    color: #004FEC;
+}
+.contact__skills-point:not(:last-child) {
+    margin-right: 10px;
+}
+.contact__skills-point:not(:last-child):after {
+    content: ',';
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    font-size: 20px;
+}
+.contact__photo {
+    width: 540px;
+    height: 340px;
+    object-fit: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

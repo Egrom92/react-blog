@@ -1,0 +1,17 @@
+.title {
+    font-size: 60px;
+    max-width: 455px;
+    width: 100%;
+    font-weight: 400;
+    margin-bottom: 75px;
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+.default-title {
+    margin-right: 16px;
+    width: 100%;
+}
+.blue-title {
+    color: #004FEC;
+}

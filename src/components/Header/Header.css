@@ -1,0 +1,63 @@
+.header {
+    padding: 49px 0;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav__logo {
+
+}
+.nav__logo-link {
+    font-weight: 700;
+    font-size: 25px;
+}
+.nav__list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 283px;
+    width: 100%;
+}
+.nav__point {
+
+}
+.nav__link {
+    font-size: 18px;
+}
+.nav__link:hover {
+    color: #004FEC;
+}
+.nav__link.active {
+    color: #004FEC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

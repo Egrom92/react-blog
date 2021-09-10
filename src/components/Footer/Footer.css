@@ -1,0 +1,65 @@
+.footer-section {
+    padding: 49px 0;
+    color: #333D51;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer__logo-wrap {
+
+}
+.footer__logo {
+    font-weight: 700;
+    font-size: 25px;
+}
+.footer__logo-description {
+    font-size: 12px;
+}
+.footer__work-name {
+    font-size: 15px;
+}
+.footer__author-wrap {
+
+}
+.footer__author-desc {
+    text-align: right;
+}
+.footer__author {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
